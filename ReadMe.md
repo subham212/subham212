@@ -1,214 +1,123 @@
-<div align="center">
+# Subham Biswal
 
-# Hi, I'm Subham Biswal 👋
+AI & Full-Stack Developer
 
-### AI & Full-Stack Developer
+Building practical AI systems, automation workflows, and production-ready software.
 
-Building AI-powered products, automation workflows, and production-ready web applications.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subham-biswal2120/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhambiswal5120@gmail.com)
-[![Website](https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://eagleesport.com/)
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/subham-biswal2120/) ·
+[Email](mailto:subhambiswal5120@gmail.com) ·
+[Website](https://eagleesport.com/)
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I'm a **2026 Computer Science graduate** with hands-on freelance experience during my academics, where I delivered web and AI-based solutions for multiple clients.
+I am a 2026 Computer Science graduate with hands-on freelance experience during my academics.
 
-I enjoy taking real-world problems, turning them into practical products, and improving them through continuous iteration.
+I have worked with multiple clients on web and AI-based solutions, taking projects from requirements and development to deployment and maintenance.
 
-- 🚀 Built and maintained production applications
-- 🤖 Focused on **AI / GenAI, AI automation, and AI-augmented engineering**
-- 🧩 Strong interest in **LLM-powered applications and intelligent workflows**
-- 🌍 Worked on products used by **40K+ users globally**
-- 🛠️ Comfortable owning projects from idea → development → deployment → maintenance
+One of the production platforms I worked on has served 40K+ users globally.
+
+My main interests are AI engineering, GenAI, AI automation, full-stack development, and building systems that solve practical problems.
 
 ---
 
-## ⚡ What I Build
+## Selected Work
 
-- AI-powered applications
-- LLM and multimodal workflows
-- AI-assisted development systems
-- Business process automation
-- Full-stack web applications
-- REST API-based systems
-- Production-ready platforms
+### Eagle Esports
 
----
+Production tournament management platform built to automate the complete esports workflow.
 
-## 🚀 Featured Projects
+The system handles operations across registration, payments, player management, match workflows, result processing, notifications, and administration.
 
-### 🦅 Eagle Esports
-**Tournament Management & AI Automation Platform**
+AI is used for automated result understanding and structured processing, with validation and human review where required.
 
-A production platform built to automate the complete esports tournament workflow — from registration and payments to player management, match operations, and result processing.
+The platform has served 40K+ users globally.
 
-- ⚙️ Automated end-to-end tournament operations
-- 🤖 AI-powered result processing and structured extraction
-- 🔐 Authentication, role-based access and production security
-- 📈 Served **40K+ users globally**
-- 🌐 https://eagleesport.com/
+[Live Product](https://eagleesport.com/)
 
 ---
 
-### 📄 Contract Analysis Pipeline
-**LLM-powered document analysis workflow**
+### Contract Analysis Pipeline
 
-A practical AI pipeline for processing contracts, extracting important information, generating structured outputs, and making long-document processing more reliable.
+An LLM-powered document analysis pipeline built to process long contracts and extract useful structured information.
 
-- LLM-based contract understanding
-- Structured extraction
-- Semantic search
-- Token-safe processing
-- Model fallback and validation
-- 🔗 https://github.com/subham212/contract-analysis-pipeline
+The system focuses on practical reliability rather than a simple single-prompt workflow, with structured extraction, semantic search, token-safe processing, validation, and model fallback strategies.
+
+[GitHub](https://github.com/subham212/contract-analysis-pipeline)
 
 ---
 
-### 🛒 NewPick
-**Real-Time Price Comparison Platform**
+## AI / Developer Tools
 
-A product focused on comparing product prices across sources with a modern web experience and data-driven interfaces.
+### AI
 
-- Next.js
-- TypeScript
-- Supabase
-- Prisma
-- Web scraping
-- Data visualization
-- 🔗 https://newpick.in/
+Generative AI  
+LLM Integration  
+Multimodal AI  
+Prompt Engineering  
+AI Workflow Automation  
+Structured Outputs  
+Human-in-the-Loop Systems  
+AI-Augmented Engineering  
+AI-Assisted Development
 
----
+### Developer Tools
 
-### 🌐 International Conference Management Platform
-**CUTM — Civil Engineering Department**
-
-Built and deployed the official digital platform for an international university conference attended by participants and delegates.
-
-- Modern responsive experience
-- Production deployment
-- Secure HTTPS
-- Performance optimization
-- Cloud-based infrastructure
-- 🔗 https://suchid.cutm.ac.in/
-
----
-
-### 🎯 OneXPass
-**Client Project**
-
-Designed and delivered a responsive digital presence for a client, working directly from requirements through development and deployment.
-
-- Client requirement analysis
-- Responsive development
-- UI implementation
-- Deployment
-- 🔗 https://onexpass.pages.dev/
+Claude Code  
+Cursor  
+Google Gemini  
+Antigravity  
+AI coding agents  
+REST APIs  
+Cloudflare  
+Supabase  
+Prisma  
+n8n
 
 ---
 
-## 🧠 AI & Engineering
+## Currently Exploring
 
-I actively work with AI as part of the development process rather than treating it as a separate tool.
-
-**AI Focus**
-- Generative AI
-- LLM applications
-- Multimodal AI
-- Prompt Engineering
-- AI Workflow Automation
-- Structured Outputs
-- Human-in-the-Loop Systems
-- AI-Augmented Engineering
-- AI-Assisted Development
-
-**Exploring**
-- RAG
-- Embeddings
-- Vector Databases
-- Agentic AI
-- Tool Calling
-- MCP
-- LLM Evaluation
-- AI Product Engineering
+RAG  
+Embeddings  
+Vector Databases  
+Agentic AI  
+Tool Calling  
+MCP  
+LLM Evaluation  
+AI Product Engineering
 
 ---
 
-## 🛠️ Tech Stack
+## Working Style
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+I like building from the problem first.
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-### Backend & Data
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
-
-### AI / Developer Tools
-![Claude](https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+Understand the workflow.  
+Design the system.  
+Use AI where it actually adds value.  
+Validate the output.  
+Ship it.  
+Improve it from real-world usage.
 
 ---
 
-## 🎓 Education
+## Open To
 
-**B.Tech — Computer Science & Engineering**  
-Centurion University of Technology and Management  
-**2022 – 2026 · CGPA: 8.8**
-
----
-
-## 📜 Certifications
-
-- **Claude Code 101** — Anthropic · September 2026
-- **Claude Code in Action** — Anthropic · September 2026
+AI Engineering  
+GenAI  
+AI Product Engineering  
+Software Engineering  
+Full-Stack Development  
+AI Automation
 
 ---
 
-## 📊 GitHub
+## Contact
 
-<div align="center">
+[LinkedIn](https://www.linkedin.com/in/subham-biswal2120/)
 
-<img src="https://github-readme-stats.vercel.app/api?username=subham212&show_icons=true&hide_border=true&theme=transparent" height="165"/>
+[Email](mailto:subhambiswal5120@gmail.com)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subham212&layout=compact&hide_border=true&theme=transparent" height="165"/>
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-I'm currently interested in **AI/GenAI, AI Engineering, Software Engineering, and Full-Stack opportunities**.
-
-If you're building something interesting around AI, automation, or software products, I'd love to connect.
-
-📩 **subhambiswal5120@gmail.com**
-
-🔗 **LinkedIn:** https://www.linkedin.com/in/subham-biswal2120/
-
----
-
-<div align="center">
-
-### Building. Shipping. Learning. Repeating. 🚀
-
-</div>
+[Projects](https://eagleesport.com/)
