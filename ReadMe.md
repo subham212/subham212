@@ -96,7 +96,7 @@ Claude Code · Cursor · Gemini · AI-assisted development · Prompt engineering
 
 ---
 
-## <PRIVATE_PERSON> Let's Connect
+## 🤝 Let's Connect
 
 I'm currently interested in **AI/GenAI, AI Engineering, Software Engineering, and Full-Stack opportunities**.
 
