@@ -1,123 +1,112 @@
-# Subham Biswal
+<div align="center">
 
-AI & Full-Stack Developer
+# Hi, I'm Subham Biswal 👋
 
-Building practical AI systems, automation workflows, and production-ready software.
+### AI & Full-Stack Developer
 
-[LinkedIn](https://www.linkedin.com/in/subham-biswal2120/) ·
-[Email](mailto:subhambiswal5120@gmail.com) ·
-[Website](https://eagleesport.com/)
+Building AI-powered products, automation workflows, and production-ready web applications.
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subham-biswal2120/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhambiswal5120@gmail.com)
 
-## About
-
-I am a 2026 Computer Science graduate with hands-on freelance experience during my academics.
-
-I have worked with multiple clients on web and AI-based solutions, taking projects from requirements and development to deployment and maintenance.
-
-One of the production platforms I worked on has served 40K+ users globally.
-
-My main interests are AI engineering, GenAI, AI automation, full-stack development, and building systems that solve practical problems.
+</div>
 
 ---
 
-## Selected Work
+## 👨‍💻 About Me
 
-### Eagle Esports
+I'm a **2026 Computer Science graduate** with hands-on freelance experience during my academics, where I delivered web and AI-based solutions for multiple clients.
 
-Production tournament management platform built to automate the complete esports workflow.
+I enjoy taking real-world problems, turning them into practical products, and improving them through continuous iteration.
 
-The system handles operations across registration, payments, player management, match workflows, result processing, notifications, and administration.
-
-AI is used for automated result understanding and structured processing, with validation and human review where required.
-
-The platform has served 40K+ users globally.
-
-[Live Product](https://eagleesport.com/)
+- 🚀 Built and maintained production applications
+- 🤖 Focused on **AI / GenAI, AI automation, and AI-augmented engineering**
+- 🧩 Interested in **LLM-powered applications and intelligent workflows**
+- 🌍 Worked on products used by **40K+ users globally**
+- 🛠️ Comfortable owning projects from idea → development → deployment → maintenance
 
 ---
 
-### Contract Analysis Pipeline
+## 🚀 Featured Projects
 
-An LLM-powered document analysis pipeline built to process long contracts and extract useful structured information.
+### 🦅 Eagle Esports
+**Tournament Management & AI Automation Platform**
 
-The system focuses on practical reliability rather than a simple single-prompt workflow, with structured extraction, semantic search, token-safe processing, validation, and model fallback strategies.
+A production platform built to automate the complete esports tournament workflow — from registration and payments to player management, match operations, and result processing.
 
-[GitHub](https://github.com/subham212/contract-analysis-pipeline)
-
----
-
-## AI / Developer Tools
-
-### AI
-
-Generative AI  
-LLM Integration  
-Multimodal AI  
-Prompt Engineering  
-AI Workflow Automation  
-Structured Outputs  
-Human-in-the-Loop Systems  
-AI-Augmented Engineering  
-AI-Assisted Development
-
-### Developer Tools
-
-Claude Code  
-Cursor  
-Google Gemini  
-Antigravity  
-AI coding agents  
-REST APIs  
-Cloudflare  
-Supabase  
-Prisma  
-n8n
+- ⚙️ Automated end-to-end tournament operations
+- 🤖 AI-powered result processing and structured extraction
+- 🔐 Authentication, role-based access and production security
+- 📈 Served **40K+ users globally**
+- 🌐 https://eagleesport.com/
 
 ---
 
-## Currently Exploring
+### 📄 Contract Analysis Pipeline
+**LLM-powered document analysis workflow**
 
-RAG  
-Embeddings  
-Vector Databases  
-Agentic AI  
-Tool Calling  
-MCP  
-LLM Evaluation  
-AI Product Engineering
+A practical AI pipeline for processing contracts, extracting important information, generating structured outputs, and making long-document processing more reliable.
 
----
-
-## Working Style
-
-I like building from the problem first.
-
-Understand the workflow.  
-Design the system.  
-Use AI where it actually adds value.  
-Validate the output.  
-Ship it.  
-Improve it from real-world usage.
+- LLM-based contract understanding
+- Structured extraction
+- Semantic search
+- Token-safe processing
+- Model fallback and validation
+- 🔗 https://github.com/subham212/contract-analysis-pipeline
 
 ---
 
-## Open To
+## 🧠 AI & Engineering
 
-AI Engineering  
-GenAI  
-AI Product Engineering  
-Software Engineering  
-Full-Stack Development  
-AI Automation
+I actively use AI as part of the development process rather than treating it as a separate tool.
+
+**AI Focus**
+- Generative AI
+- LLM Applications
+- Multimodal AI
+- Prompt Engineering
+- AI Workflow Automation
+- Structured Outputs
+- Human-in-the-Loop Systems
+- AI-Augmented Engineering
+- AI-Assisted Development
+
+**Exploring**
+- RAG
+- Embeddings
+- Vector Databases
+- Agentic AI
+- Tool Calling
+- MCP
+- LLM Evaluation
+- AI Product Engineering
 
 ---
 
-## Contact
+## 🛠️ AI / Developer Tools
 
-[LinkedIn](https://www.linkedin.com/in/subham-biswal2120/)
+![Claude](https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 
-[Email](mailto:subhambiswal5120@gmail.com)
+Claude Code · Cursor · Gemini · AI-assisted development · Prompt engineering · LLM APIs · AI workflow automation
 
-[Projects](https://eagleesport.com/)
+---
+
+## 🤝 Let's Connect
+
+I'm currently interested in **AI/GenAI, AI Engineering, Software Engineering, and Full-Stack opportunities**.
+
+If you're building something interesting around AI, automation, or software products, I'd love to connect.
+
+📩 **subhambiswal5120@gmail.com**
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/subham-biswal2120/
+
+---
+
+<div align="center">
+
+### Building. Shipping. Learning. Repeating. 🚀
+
+</div>
